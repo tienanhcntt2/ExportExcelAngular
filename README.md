@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## install libary 
 npm i file-saver
 npm i file-saver
-## 
+## link website
+[Export file excel in Angular](https://code-android-example.blogspot.com/2019/08/how-to-exporting-excel-file-in-angular.html)
