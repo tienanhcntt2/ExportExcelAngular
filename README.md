@@ -27,6 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## install libary 
 npm i file-saver
-npm i file-saver
+npm i xlsx
 ## link website
 [Export file excel in Angular](https://code-android-example.blogspot.com/2019/08/how-to-exporting-excel-file-in-angular.html)
